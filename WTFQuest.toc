@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: WTFQuest
+## Notes: Quest helpers
+## Author: Dramacydal
+## SavedVariablesPerCharacter: WTFQuestsAbandoned
+## Version: 1.0
+
+WTFQuest.lua
